@@ -43,3 +43,5 @@ o, como h = (b – a)/2,
 ![Captura de pantalla 2024-04-24 225413](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/228fb19b-7d33-402c-bbb3-7f3493217666)
 
 donde ξ está en algún lugar en el intervalo de a a b.
+
+[Ejemplos](https://github.com/NiliLG/MetodosNumericosT3/tree/main/GaussJordan)
