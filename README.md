@@ -1,7 +1,7 @@
 
 # Índice
 * [Método de trapecio](#Método_de_trapecio)
-* [Regla de Simpson](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
+* [Regla de Simpson](#Regla_de_Simpson)
 * [Método de la cuadratura gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
 * [Fórmula de tres puntos](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
 * [Fórmula de cinco puntos](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
@@ -21,3 +21,25 @@ y donde el término error corresponde a:
 ![Captura de pantalla 2024-04-24 224352](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/3096a201-d558-4d70-b8d8-f37ed8660480)
 
 [Ejemplos](https://github.com/NiliLG/MetodosNumericosT3/tree/main/GaussJordan)
+
+# Regla_de_Simpson
+
+## Regla_de Simpson_1/3
+La regla de Simpson 1/3 resulta cuando un polinomio de interpolación de segundo grado se sustituye en la ecuación
+
+![Captura de pantalla 2024-04-24 224352](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/45f295f8-3c2e-48b0-adc8-032302b60aee)
+
+La regla de Simpson 1/3 también se puede expresar usando el formato de la ecuación 
+
+![Captura de pantalla 2024-04-24 225149](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/32af9516-43c7-4bc2-8fcd-ffa5403ff648)
+
+donde a = x0, b = x2 y x1 = el punto a la mitad entre a y b, que está dado por (b + a)/2.
+Se puede demostrar que la aplicación a un solo segmento de la regla de Simpson 1/3 tiene un error de truncamiento de
+
+![Captura de pantalla 2024-04-24 225353](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/6380a784-f5df-469a-b877-02b47a821205)
+
+o, como h = (b – a)/2,
+
+![Captura de pantalla 2024-04-24 225413](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/228fb19b-7d33-402c-bbb3-7f3493217666)
+
+donde ξ está en algún lugar en el intervalo de a a b.
