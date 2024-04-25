@@ -28,6 +28,7 @@ y donde el término error corresponde a:
 La regla de Simpson 1/3 resulta cuando un polinomio de interpolación de segundo grado se sustituye en la ecuación
 
 ![Captura de pantalla 2024-04-24 224352](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/45f295f8-3c2e-48b0-adc8-032302b60aee)
+![Captura de pantalla 2024-04-24 225749](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/7907ca09-2f87-4e13-b60f-0851b467c9a0)
 
 La regla de Simpson 1/3 también se puede expresar usando el formato de la ecuación 
 
