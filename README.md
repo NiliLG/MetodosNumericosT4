@@ -2,7 +2,6 @@
 # Índice
 * [Método de trapecio](#Método_de_trapecio)
 * [Regla de Simpson](#Regla_de_Simpson)
-* * [Regla de Simpson 1/3](#Regla_de Simpson_1/3).
 * [Método de la cuadratura gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
 * [Fórmula de tres puntos](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
 * [Fórmula de cinco puntos](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
