@@ -1,6 +1,7 @@
 
 # Índice
 * [Método de trapecio](#Método_de_trapecio)
+  * [Aplicación_múltiple](#Aplicación_múltiple)
 * [Regla de Simpson](#Regla_de_Simpson)
   * [Regla de Simpson 1/3](#Regla_de_Simpson_1/3)
 * [Método de la cuadratura gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
@@ -24,6 +25,29 @@ y donde el término error corresponde a:
 ![Captura de pantalla 2024-04-24 224352](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/3096a201-d558-4d70-b8d8-f37ed8660480)
 
 [Ejemplos](https://github.com/NiliLG/MetodosNumericosT3/tree/main/GaussJordan)
+
+## Aplicación_múltiple
+
+Una forma de mejorar la precisión de la regla del trapecio consiste en dividir el intervalo de integración de a a b en varios segmentos, y aplicar el método a cada uno de ellos. Las áreas de los segmentos se suman después para obtener la integral en todo el intervalo. Las ecuaciones resultantes se llaman fórmulas de integración, de aplicación múltiple o compuestas.
+Existen n segmentos del mismo ancho:
+
+![Captura de pantalla 2024-04-25 000550](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/2532ed46-3a5c-47ce-afe3-a8132eeb5887)
+
+![Captura de pantalla 2024-04-25 001051](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/a8d54c83-ab68-4b90-bc47-4fabe42e5699)
+
+Si a y b se designan como x0 y xn, respectivamente, la integral completa se representará como:
+
+![Captura de pantalla 2024-04-25 000720](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/233d7112-6e5a-4ce2-bd59-105be4531338)
+
+Para expresar la ecuación (21.9) en la forma general de la ecuación
+
+![Captura de pantalla 2024-04-25 000838](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/0d9eae92-23dc-45f7-b689-afc23ab9712a)
+
+Como la sumatoria de los coeficientes de f(x) en el numerador dividido entre 2n es igual a 1, la altura promedio representa un promedio ponderado de los valores de la función. 
+De acuerdo con la ecuación (21.10), a los puntos interiores se les da el doble de peso que a los dos puntos extremos f(x0) y f(xn).
+Se tiene un error con la regla del trapecio de aplicación múltiple al sumar los errores individuales de cada segmento, así
+
+![Captura de pantalla 2024-04-25 001009](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/08faa2e8-355e-4c95-b796-2c47a0874925)
 
 # Regla_de_Simpson
 
