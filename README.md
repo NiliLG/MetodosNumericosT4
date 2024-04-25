@@ -13,6 +13,8 @@ En matemática la regla del trapecio es un método de integración numérica, es
 
 ![Captura de pantalla 2024-04-24 224227](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/c9f23672-d1c8-4a10-ba3e-36db3694dd26)
 
+![Captura de pantalla 2024-04-24 232445](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/7f79faca-6ef7-4f3b-8369-dcb56e0beddb)
+
 La regla se basa en aproximar el valor de la integral de f(x) por el de la función lineal que pasa a través de los puntos (a, f(a)) y (b, f(b)). La integral de ésta es igual al área del trapecio bajo la gráfica de la función lineal. Se sigue que
 
 ![Captura de pantalla 2024-04-24 224331](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/69fa7bd1-c58a-4bdb-bb8a-f4ed8edaa118)
