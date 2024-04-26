@@ -74,7 +74,7 @@ o, como h = (b – a)/2,
 
 donde ξ está en algún lugar en el intervalo de a a b.
 
-[Ejemplos](https://github.com/NiliLG/MetodosNumericosT3/tree/main/GaussJordan)
+[Ejemplos](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSimpson)
 
 ## Regla_de Simpson_3/8
 De manera similar a la obtención de la regla del trapecio y Simpson 1/3, es posible ajustar un polinomio de Lagrange de tercer grado a cuatro puntos e integrarlo:
