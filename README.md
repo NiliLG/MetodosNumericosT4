@@ -74,3 +74,20 @@ o, como h = (b – a)/2,
 donde ξ está en algún lugar en el intervalo de a a b.
 
 [Ejemplos](https://github.com/NiliLG/MetodosNumericosT3/tree/main/GaussJordan)
+
+## Regla_de Simpson_3/8
+De manera similar a la obtención de la regla del trapecio y Simpson 1/3, es posible ajustar un polinomio de Lagrange de tercer grado a cuatro puntos e integrarlo:
+
+![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/f80644ac-21e8-4b39-b168-81931f942d0d)
+
+para obtener
+
+![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/3d7d669c-7d65-40b5-9405-6d95f3f54d05)
+
+donde h = (b – a)/3. Esta ecuación se llama regla de Simpson 3/8 debido a que h se multiplica por 3/8. Ésta es la tercera fórmula de integración cerrada de Newton-Cotes. La regla 3/8 se expresa también en la forma de la ecuación:
+
+![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/cc52919a-f8f1-4dc7-8712-55ff1a6e248f)
+
+Así los dos puntos interiores tienen pesos de tres octavos, mientras que los puntos extremos tienen un peso de un octavo. La regla de Simpson 3/8 tiene un error de
+
+![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/df2c1c39-459d-4f12-8206-796beceecdf1)
