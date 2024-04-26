@@ -34,7 +34,7 @@ Existen n segmentos del mismo ancho:
 
 ![Captura de pantalla 2024-04-25 001051](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/a8d54c83-ab68-4b90-bc47-4fabe42e5699)
 
-Si a y b se designan como x0 y xn, respectivamente, la integral completa se representará como:
+Si a y b se designan como x0 y xn, respectivamente, la integral completa se representará como:
 
 ![Captura de pantalla 2024-04-25 000720](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/233d7112-6e5a-4ce2-bd59-105be4531338)
 
