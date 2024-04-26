@@ -92,3 +92,5 @@ donde h = (b – a)/3. Esta ecuación se llama regla de Simpson 3/8 debido a que
 Así los dos puntos interiores tienen pesos de tres octavos, mientras que los puntos extremos tienen un peso de un octavo. La regla de Simpson 3/8 tiene un error de
 
 ![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/df2c1c39-459d-4f12-8206-796beceecdf1)
+
+[Ejemplos](https://github.com/NiliLG/MetodosNumericosT3/tree/main/GaussJordan)
