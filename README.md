@@ -28,7 +28,7 @@ y donde el término error corresponde a:
 
 ## Aplicación_múltiple
 
-Una forma de mejorar la precisión de la regla del trapecio consiste en dividir el intervalo de integración de a a b en varios segmentos, y aplicar el método a cada uno de ellos. Las áreas de los segmentos se suman después para obtener la integral en todo el intervalo. Las ecuaciones resultantes se llaman fórmulas de integración, de aplicación múltiple o compuestas.
+Una forma de mejorar la precisión de la regla del trapecio consiste en dividir el intervalo de integración de a a b en varios segmentos, y aplicar el método a cada uno de ellos. Las áreas de los segmentos se suman después para obtener la integral en todo el intervalo. Las ecuaciones resultantes se llaman fórmulas de integración, de aplicación múltiple o compuestas.
 Existen n segmentos del mismo ancho:
 
 ![Captura de pantalla 2024-04-25 000550](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/2532ed46-3a5c-47ce-afe3-a8132eeb5887)
