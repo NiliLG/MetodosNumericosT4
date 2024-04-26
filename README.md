@@ -50,6 +50,8 @@ Se tiene un error con la regla del trapecio de aplicación múltiple al sumar lo
 
 ![Captura de pantalla 2024-04-25 001009](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/08faa2e8-355e-4c95-b796-2c47a0874925)
 
+[Ejemplos](https://github.com/NiliLG/MetodosNumericosT3/tree/main/GaussJordan)
+
 # Regla_de_Simpson
 
 ## Regla_de Simpson_1/3
