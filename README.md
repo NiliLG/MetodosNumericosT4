@@ -43,7 +43,7 @@ Para expresar la ecuación (21.9) en la forma general de la ecuación
 ![Captura de pantalla 2024-04-25 000838](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/0d9eae92-23dc-45f7-b689-afc23ab9712a)
 
 Como la sumatoria de los coeficientes de f(x) en el numerador dividido entre 2n es igual a 1, la altura promedio representa un promedio ponderado de los valores de la función. 
-De acuerdo con la ecuación (21.10), a los puntos interiores se les da el doble de peso que a los dos puntos extremos f(x0) y f(xn).
+De acuerdo con la ecuación, a los puntos interiores se les da el doble de peso que a los dos puntos extremos f(x0) y f(xn).
 Se tiene un error con la regla del trapecio de aplicación múltiple al sumar los errores individuales de cada segmento, así
 
 ![Captura de pantalla 2024-04-25 001009](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/08faa2e8-355e-4c95-b796-2c47a0874925)
@@ -89,7 +89,7 @@ donde h = (b – a)/3. Esta ecuación se llama regla de Simpson 3/8 debido a que
 
 ![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/cc52919a-f8f1-4dc7-8712-55ff1a6e248f)
 
-Así los dos puntos interiores tienen pesos de tres octavos, mientras que los puntos extremos tienen un peso de un octavo. La regla de Simpson 3/8 tiene un error de
+Así los dos puntos interiores tienen pesos de tres octavos, mientras que los puntos extremos tienen un peso de un octavo. La regla de Simpson 3/8 tiene un error de
 
 ![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/df2c1c39-459d-4f12-8206-796beceecdf1)
 
