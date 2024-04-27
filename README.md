@@ -11,7 +11,7 @@
 * [Fórmula de tres puntos](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
 * [Fórmula de cinco puntos](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
 
-# Introdución
+# Introducción
 
 Los métodos numéricos juegan un papel importante en la solución de problemas matemáticos y de ingeniería donde las soluciones analíticas no son posibles o prácticas de obtener. En este problemario, exploraremos varios métodos numéricos para la aproximación de integrales (aplicado en el lengauje de programación Java). Los métodos que abordaremos incluyen el Método del Trapecio, la Regla de Simpson, el Método de Cuadratura Gaussiana, la Fórmula de Tres Puntos y la Fórmula de Cinco Puntos.
 
