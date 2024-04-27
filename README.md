@@ -1,5 +1,7 @@
 
 # Índice
+
+* [Introducción](#Introducción)
 * [Método de trapecio](#Método_de_trapecio)
   * [Aplicación_múltiple](#Aplicación_múltiple)
 * [Regla de Simpson](#Regla_de_Simpson)
@@ -8,6 +10,10 @@
 * [Método de la cuadratura gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
 * [Fórmula de tres puntos](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
 * [Fórmula de cinco puntos](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
+
+# Introdución
+
+Los métodos numéricos juegan un papel importante en la solución de problemas matemáticos y de ingeniería donde las soluciones analíticas no son posibles o prácticas de obtener. En este problemario, exploraremos varios métodos numéricos para la aproximación de integrales (aplicado en el lengauje de programación Java). Los métodos que abordaremos incluyen el Método del Trapecio, la Regla de Simpson, el Método de Cuadratura Gaussiana, la Fórmula de Tres Puntos y la Fórmula de Cinco Puntos.
 
 # Método_de _trapecio
 
