@@ -10,10 +10,13 @@
 * [Método de la cuadratura gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
 * [Fórmula de tres puntos](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
 * [Fórmula de cinco puntos](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
+* [Conclusiones](#Conclusiones)
+* [Bibliografía](#Bibliografía)
 
 # Introducción
 
-Los métodos numéricos juegan un papel importante en la solución de problemas matemáticos y de ingeniería donde las soluciones analíticas no son posibles o prácticas de obtener. En este problemario, exploraremos varios métodos numéricos para la aproximación de integrales (aplicado en el lengauje de programación Java). Los métodos que abordaremos incluyen el Método del Trapecio, la Regla de Simpson, el Método de Cuadratura Gaussiana, la Fórmula de Tres Puntos y la Fórmula de Cinco Puntos.
+Los métodos numéricos juegan un papel importante en la solución de problemas matemáticos y de ingeniería donde las soluciones analíticas no son posibles o prácticas de obtener. En este problemario, exploraremos varios métodos numéricos para la aproximación de integrales. Los métodos que abordaremos incluyen el Método del Trapecio, la Regla de Simpson, el Método de Cuadratura Gaussiana, la Fórmula de Tres Puntos y la Fórmula de Cinco Puntos.
+Este problemario proporcionará una base sólida para comprender y aplicar estos métodos numéricos en Java para resolver problemas de integración en una variedad de contextos matemáticos y de ingeniería.
 
 # Método_de _trapecio
 
@@ -100,3 +103,11 @@ Así los dos puntos interiores tienen pesos de tres octavos, mientras que los pu
 ![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/df2c1c39-459d-4f12-8206-796beceecdf1)
 
 [Ejemplos](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSmps)
+
+# Conclusiones
+
+He aprendido a implementar estos métodos en Java, lo que nos ha permitido comprender su funcionamiento interno y cómo se aplican para resolver problemas de integración en la práctica. Además, observé cómo la elección del método adecuado puede depender de varios factores, como la precisión requerida, la complejidad de la función y el tiempo de cálculo disponible.
+
+# Bibliografía
+
+L
