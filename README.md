@@ -105,9 +105,7 @@ Así los dos puntos interiores tienen pesos de tres octavos, mientras que los pu
 [Ejemplos](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSmps)
 
 # Conclusiones
-
 He aprendido a implementar estos métodos en Java, lo que nos ha permitido comprender su funcionamiento interno y cómo se aplican para resolver problemas de integración en la práctica. Además, observé cómo la elección del método adecuado puede depender de varios factores, como la precisión requerida, la complejidad de la función y el tiempo de cálculo disponible.
 
 # Bibliografía
-
-L
+Chapra, S. C., & Canale, R. P. (2006). Métodos Numéricos para Ingenieros (5ª ed.). McGraw-Hill.
