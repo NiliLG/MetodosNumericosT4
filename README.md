@@ -57,7 +57,7 @@ Se tiene un error con la regla del trapecio de aplicación múltiple al sumar lo
 
 ![Captura de pantalla 2024-04-25 001009](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/08faa2e8-355e-4c95-b796-2c47a0874925)
 
-[Ejemplos](https://github.com/NiliLG/MetodosNumericosT4/tree/main/MetodoTrapecio)
+[Implementación](https://github.com/NiliLG/MetodosNumericosT4/tree/main/MetodoTrapecio)
 
 # Regla_de_Simpson
 
@@ -83,7 +83,7 @@ o, como h = (b – a)/2,
 
 donde ξ está en algún lugar en el intervalo de a a b.
 
-[Ejemplos](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSimpson)
+[Implementación](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSimpson)
 
 ## Regla_de Simpson_3/8
 De manera similar a la obtención de la regla del trapecio y Simpson 1/3, es posible ajustar un polinomio de Lagrange de tercer grado a cuatro puntos e integrarlo:
@@ -102,7 +102,7 @@ Así los dos puntos interiores tienen pesos de tres octavos, mientras que los pu
 
 ![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/df2c1c39-459d-4f12-8206-796beceecdf1)
 
-[Ejemplos](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSmps)
+[Implementación](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSmps)
 
 # Conclusiones
 He aprendido a implementar estos métodos en Java, lo que nos ha permitido comprender su funcionamiento interno y cómo se aplican para resolver problemas de integración en la práctica. Además, observé cómo la elección del método adecuado puede depender de varios factores, como la precisión requerida, la complejidad de la función y el tiempo de cálculo disponible.
