@@ -2,10 +2,10 @@
 # Índice
 
 * [Introducción](#Introducción)
-* [Método_de_trapecio](#método_de-_trapecio)
-  * [Aplicación_múltiple](#Aplicación_múltiple)
-* [Regla_de_Simpson](#Regla_de_Simpson)
-  * [Regla de Simpson 1/3](#Regla_de_Simpson_1/3)
+* [Método de trapecio](#método_de-_trapecio)
+  * [Aplicación múltiple](#Aplicación_múltiple)
+* [Regla de Simpson](#Regla_de_Simpson)
+  * [Regla de Simpson 1/3](#regla_de-simpson_13)
   * [Regla de Simpson 3/8](#Regla_de_Simpson_3/8)
 * [Método de la cuadratura gaussiana](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
 * [Fórmula de tres puntos](#MÉTODO_DE_ELIMINACIÓN_GAUSSSIANA)
