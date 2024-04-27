@@ -93,4 +93,4 @@ Así los dos puntos interiores tienen pesos de tres octavos, mientras que los pu
 
 ![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/df2c1c39-459d-4f12-8206-796beceecdf1)
 
-[Ejemplos](https://github.com/NiliLG/MetodosNumericosT3/tree/main/GaussJordan)
+[Ejemplos](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSmps)
