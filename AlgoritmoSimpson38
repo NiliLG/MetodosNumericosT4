@@ -1,17 +1,10 @@
-Función Simpson38(f, a, b, n):
-    si n % 3 no es igual a 0, devolver "El número de intervalos debe ser un múltiplo de 3."
+Función integralSimpson38(función, a, b)
+    h = (b - a) / 3 // Ancho de cada subintervalo
+    x0 = a
+    x1 = a + h
+    x2 = a + 2 * h
+    x3 = b
     
-    h = (b - a) / n
-    suma = f(a) + f(b) // Sumamos el valor de f(a) y f(b) al resultado
+    sum = función(x0) + 3 * función(x1) + 3 * función(x2) + función(x3)
     
-    Para i desde 1 hasta n-1:
-        xi = a + i * h // Calculamos los puntos de partición
-        Si i % 3 es igual a 0:
-            suma = suma + 2 * f(xi) // Sumamos el valor de f(xi) ponderado por 2
-        Sino si i % 3 es igual a 1:
-            suma = suma + 3 * f(xi) // Sumamos el valor de f(xi) ponderado por 3
-        Sino:
-            suma = suma + 3 * f(xi) // Sumamos el valor de f(xi) ponderado por 3
-    
-    resultado = 3 * h * suma / 8 // Multiplicamos por el ancho de los intervalos y dividimos por 8
-    Devolver resultado
+    retornar (b - a) * sum / 8
