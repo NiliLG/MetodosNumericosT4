@@ -87,6 +87,8 @@ donde ξ está en algún lugar en el intervalo de a a b.
 
 [Implementación](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSimpson)
 
+[Algoritmo](https://github.com/NiliLG/MetodosNumericosT4/blob/main/AlgoritmoSimpson13)
+
 ## Regla_de Simpson_3/8
 De manera similar a la obtención de la regla del trapecio y Simpson 1/3, es posible ajustar un polinomio de Lagrange de tercer grado a cuatro puntos e integrarlo:
 
@@ -105,6 +107,8 @@ Así los dos puntos interiores tienen pesos de tres octavos, mientras que los pu
 ![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/df2c1c39-459d-4f12-8206-796beceecdf1)
 
 [Implementación](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSmps)
+
+[Algoritmo](https://github.com/NiliLG/MetodosNumericosT4/blob/main/AlgoritmoSimpson38)
 
 # Conclusiones
 He aprendido a implementar estos métodos en Java, lo que nos ha permitido comprender su funcionamiento interno y cómo se aplican para resolver problemas de integración en la práctica. Además, observé cómo la elección del método adecuado puede depender de varios factores, como la precisión requerida, la complejidad de la función y el tiempo de cálculo disponible.
