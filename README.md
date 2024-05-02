@@ -59,6 +59,8 @@ Se tiene un error con la regla del trapecio de aplicación múltiple al sumar lo
 
 [Implementación](https://github.com/NiliLG/MetodosNumericosT4/tree/main/MetodoTrapecio)
 
+[Algoritmo](https://github.com/NiliLG/MetodosNumericosT4/blob/main/AlgoritmoTrapecio)
+
 # Regla_de_Simpson
 
 ## Regla_de Simpson_1/3
