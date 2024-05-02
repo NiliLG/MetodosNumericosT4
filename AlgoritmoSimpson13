@@ -1,12 +1,7 @@
-Función Simpson13(f, a, b, n):
-    si n no es par, devolver "El número de intervalos debe ser par."
-    h = (b - a) / n
-    suma = f(a) + f(b) // Sumamos el valor de f(a) y f(b) al resultado
-    Para i desde 1 hasta n-1:
-        xi = a + i * h // Calculamos los puntos de partición
-        Si i es par:
-            suma = suma + 2 * f(xi) // Sumamos el valor de f(xi) ponderado por 2
-        Sino:
-            suma = suma + 4 * f(xi) // Sumamos el valor de f(xi) ponderado por 4
-    resultado = h * suma / 3 // Multiplicamos por el ancho de los intervalos y dividimos por 3
-    Devolver resultado
+Función integralSimpson13(función, a, b):
+    h = (b - a) / 2
+    x0 = a
+    x1 = (a + b) / 2
+    x2 = b
+    sum = función(x0) + 4 * función(x1) + función(x2)
+    retornar (b - a) * sum / 6
