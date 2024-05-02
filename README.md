@@ -56,6 +56,8 @@ Se tiene un error con la regla del trapecio de aplicación múltiple al sumar lo
 
 [Implementación](https://github.com/NiliLG/MetodosNumericosT4/tree/main/MetodoTrapecio)
 
+![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/171e9ec9-53ee-4c01-b4e2-a036245f0dce)
+
 [Algoritmo](https://github.com/NiliLG/MetodosNumericosT4/blob/main/AlgoritmoTrapecio)
 
 # Regla_de_Simpson
@@ -84,6 +86,8 @@ donde ξ está en algún lugar en el intervalo de a a b.
 
 [Implementación](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSimpson)
 
+![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/b68b66c4-4b82-4df2-b9d3-4eeaac6af89d)
+
 [Algoritmo](https://github.com/NiliLG/MetodosNumericosT4/blob/main/AlgoritmoSimpson13)
 
 ## Regla_de Simpson_3/8
@@ -104,6 +108,8 @@ Así los dos puntos interiores tienen pesos de tres octavos, mientras que los pu
 ![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/df2c1c39-459d-4f12-8206-796beceecdf1)
 
 [Implementación](https://github.com/NiliLG/MetodosNumericosT4/tree/main/ReglaSmps)
+
+![image](https://github.com/NiliLG/MetodosNumericosT4/assets/147437701/cb9c222e-a436-43ce-8dfb-584ac6756955)
 
 [Algoritmo](https://github.com/NiliLG/MetodosNumericosT4/blob/main/AlgoritmoSimpson38)
 
